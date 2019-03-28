@@ -1,8 +1,9 @@
 # Image-Generation-Papers
-A collection of latest papers for image generation (From 2019)
+A collection of latest papers for image generation with different conditional context.
 
-Mainly focus on conditional generation with different context.
+Plan to add comments according to my reading progress.
 
+Feel free to send a PR or issue.
 
 ## Context: Layerout / Semantic Map
 
@@ -22,3 +23,10 @@ Mainly focus on conditional generation with different context.
 | ObjectGAN| Object-driven Text-to-Image Synthesis via Adversarial Training| CVPR 2019 | [1902.10740](https://arxiv.org/abs/1902.10740) ||object-driven + semantic layerout|
 | StoryGAN| StoryGAN: A Sequential Conditional GAN for Story Visualization| CVPR 2019 | [1812.02784](https://arxiv.org/abs/1812.02784) |[yitong91/StoryGAN](https://github.com/yitong91/StoryGAN )|story-to-image-sequence generation|
 |Text2Scene| Text2Scene: Generating Compositional Scenes from Textual Descriptions| CVPR 2019| [1809.01110](https://arxiv.org/abs/1809.01110 )|[yitong91/Text2Image](https://github.com/uvavision/Text2Image) | |
+
+
+## Context: Scene Graphs
+
+| Model| Paper| Conference| Paper Link | Code Link | Comments|
+| ---- | ---- | ----------| ---------- | ----------| -----------------|
+| Sg2im| Image Generation from Scene Graphs| CVPR 2018 | [1804.01622](https://arxiv.org/abs/1804.01622) |[google/sg2im](https://github.com/google/sg2im)||
