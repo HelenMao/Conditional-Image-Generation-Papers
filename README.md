@@ -1,9 +1,9 @@
 # Image-Generation-Papers
-A collection of latest papers for image generation with different conditional context.
+A collection of latest papers for image generation with different conditional context. (constantly updating)
 
-Plan to add comments according to my reading progress.
+- Plan to add small comments according to my reading progress.
 
-Feel free to send a PR or issue.
+- Feel free to send a PR or issue.
 
 ## Context: Layerout / Semantic Map
 
