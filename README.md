@@ -1,6 +1,6 @@
 # Image-Generation-Papers
-A collection of latest papers for image generation with **different conditional context**. (constantly updating)
-- Do not include papers of image-to-image translation, please see [image-to-image papers](https://github.com/lzhbrian/image-to-image-papers) for more related papers.
+A collection of latest papers on top-notch conferences for image generation with **different conditional context**. (constantly updating)
+- Not including papers of image-to-image translation, please see [image-to-image papers](https://github.com/lzhbrian/image-to-image-papers) for more related papers.
 
 - Plan to add or update comments according to my progress of reading and understanding.
 
