@@ -6,15 +6,24 @@ A collection of latest papers on top-notch conferences for image generation with
 
 - Feel free to send a PR or issue.
 
-## Context: Layerout / Semantic Map
+## Context: Semantic Label / Segmentation Map
 
 | Model| Paper| Conference| Paper Link | Code Link | Comments|
 | ---- | ---- | ----------| ---------- | ----------| -----------------|
 | SPADE| Semantic Image Synthesis with Spatially-Adaptive Normalization| CVPR 2019 (Oral)| [1903.07291](https://arxiv.org/abs/1903.07291) |[NVlabs/SPADE](https://github.com/NVlabs/SPADE)|1.A conditonal normalization layer 2.sementic information is used to learn the affine coefficients|
-|Layout2Im| Image Generation from Layout | CVPR 2019|[1811.11389](https://arxiv.org/abs/1811.11389)| | |
 |Seg2vid| Video Generation from Single Semantic Label Map | CVPR 2019| [1903.04480](https://arxiv.org/abs/1903.04480)|[junting/seg2vid](https://github.com/junting/seg2vid/tree/master)| |
 
+## Context: Layerout
 
+| Model| Paper| Conference| Paper Link | Code Link | Comments|
+| ---- | ---- | ----------| ---------- | ----------| -----------------|
+|Layout2Im| Image Generation from Layout | CVPR 2019|[1811.11389](https://arxiv.org/abs/1811.11389)| | |
+
+## Context: Scene Graphs
+
+| Model| Paper| Conference| Paper Link | Code Link | Comments|
+| ---- | ---- | ----------| ---------- | ----------| -----------------|
+| Sg2im| Image Generation from Scene Graphs| CVPR 2018 | [1804.01622](https://arxiv.org/abs/1804.01622) |[google/sg2im](https://github.com/google/sg2im)||
 
 ## Context: Text
 
@@ -27,8 +36,3 @@ A collection of latest papers on top-notch conferences for image generation with
 ||Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis|CVPR 2018| [1801.05091](https://arxiv.org/abs/1801.05091)|||
 
 
-## Context: Scene Graphs
-
-| Model| Paper| Conference| Paper Link | Code Link | Comments|
-| ---- | ---- | ----------| ---------- | ----------| -----------------|
-| Sg2im| Image Generation from Scene Graphs| CVPR 2018 | [1804.01622](https://arxiv.org/abs/1804.01622) |[google/sg2im](https://github.com/google/sg2im)||
